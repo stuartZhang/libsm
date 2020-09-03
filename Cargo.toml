@@ -1,12 +1,9 @@
 [package]
-name = "libsm"
-version = "0.3.0"
-authors = [
-    "Tang Zongxun <tangzongxun@hotmail.com>",
-    "Niu Junxiang <494521900@qq.com>",
-    "Cryptape Technology <contact@cryptape.com>"
-]
-
+name = "libsm_stzhang"
+version = "0.1.0"
+authors = ["stuart_zhang <stuartpage@qq.com>"]
+edition = "2018"
+repository = "https://github.com/stuartZhang/libsm.git"
 description = "A Rust Library of China's Standards of Encryption Algorithms (SM2/3/4)"
 keywords = ["cipher", "cryptography"]
 license = "Apache-2.0"

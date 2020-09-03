@@ -11,12 +11,11 @@
 // WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 // See the License for the specific language governing permissions and
 // limitations under the License.
-
+use crate::sm3::hash::Sm3Hash;
 use super::ecc::*;
 use super::field::FieldElem;
 use num_bigint::BigUint;
 use num_traits::*;
-use sm3::hash::Sm3Hash;
 
 use yasna;
 
