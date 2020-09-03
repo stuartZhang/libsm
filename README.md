@@ -1,4 +1,4 @@
-# Libsm
+# Libsm for Wasm
 
 Libsm is an open source pure rust library of China Cryptographic Algorithm Standards. It is completed by a collaborative effort between the Cryptape Technology LLC. and BEIHANG KNOC LAB. And now this project is maintained by Cryptape Technology LLC.
 
